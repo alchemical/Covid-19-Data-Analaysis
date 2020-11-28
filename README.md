@@ -17,16 +17,16 @@ In this tutorial, we will go through following steps:
 
 # COVID-19 data visualization
 
-# Daily conformed cases of Covid-19 from January 2020. The visualization is for five selected country. You can change the country as per your need.
+### Daily conformed cases of Covid-19 from January 2020. The visualization is for five selected country. You can change the country as per your need.
 ![](result/conformed.gif)
 
-# Geographical distribution of  Covis-19 from January 2020.
+### Geographical distribution of  Covis-19 from January 2020.
 ![](result/choloreopeth.PNG)
 
-# Total ases of COVID-19 from January 2020.
+### Total ases of COVID-19 from January 2020.
 ![](result/World_total_cases.png)
 
-# Total Daily cases of COVID-19 from January 2020.
+### Total Daily cases of COVID-19 from January 2020.
 ![](result/World_Daily_cases.png)
 
 
