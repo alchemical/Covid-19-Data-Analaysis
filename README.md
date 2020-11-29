@@ -20,6 +20,9 @@ In this tutorial, we will go through following steps:
 ### Daily conformed cases of Covid-19 from January 2020. The visualization is for five selected country. You can change the country as per your need.
 ![](result/conformed.gif)
 
+### Percentage of Conformed Cases Based on Country Population.
+![](result/percent_conformed.gif)
+
 ### Geographical distribution of  Covis-19 from January 2020.
 ![](result/choloreopeth.PNG)
 
