@@ -1,4 +1,4 @@
-# Covid-19-Data-Analaysis
+# Covid-19 Data Analaysis
 ## Covid-19 Data analyis using python.
 
 This is the tutorial for basic analysis of COVID-19 data obtained from Johns Hopkins University covid data repository.
